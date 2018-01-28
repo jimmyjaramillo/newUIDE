@@ -1,7 +1,8 @@
 # Descargar e Instalar 
+Para ejecutar el proyecto necesita instalar node.js 
 
 - Clonar el repositorio
-- Ingrsar a la carpeta InformaticaMultimediaUide
+- Ingresar a la carpeta InformaticaMultimediaUide
 - Ejecutar `npm install`
 - Ejecutar `npm start`
 

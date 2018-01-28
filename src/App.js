@@ -80,7 +80,7 @@ class App extends Component {
                 <h4>Contactos: 09871174750 - 2102737</h4>
               </Grid.Column>
               <Grid.Column>
-                <h4>Descarga el Codigo: <a href="https://www.facebook.com/informaticaymultimedialoja/?ref=br_rs">GitHub</a> </h4>
+                <h4>Descarga el Codigo: <a href="https://github.com/DiegoTinitana/InformaticaMultimediaUide">GitHub</a> </h4>
               </Grid.Column>
             </Grid.Row>
           </Grid>
