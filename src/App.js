@@ -77,7 +77,7 @@ class App extends Component {
                 <h4>Diseño y Programación: Diego Tinitana</h4>
               </Grid.Column>
               <Grid.Column>
-                <h4>Contactos: 09871174750 - 2102737</h4>
+                <h4>Contactos: 0987174750 - 2102737</h4>
               </Grid.Column>
               <Grid.Column>
                 <h4>Descarga el Codigo: <a href="https://github.com/DiegoTinitana/InformaticaMultimediaUide">GitHub</a> </h4>
