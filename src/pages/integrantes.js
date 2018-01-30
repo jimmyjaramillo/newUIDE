@@ -18,7 +18,7 @@ class IntegrantesPage extends Component {
             <Grid.Column >
               <div className="BodyIntegrantes">
                 <h3>Estudiantes de la escuela de informática y multimedia</h3>
-                <h3>Flavio Ramon</h3>
+                <h3>Flavio Román</h3>
                 <h1></h1>
                 <h3>Angel Torres</h3>
                 <h1></h1>
