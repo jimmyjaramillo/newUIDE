@@ -20,7 +20,7 @@ class App extends Component {
             <Grid celled='internally'>
               <Grid.Row>
                 <Grid.Column width={3}>
-                  <Image src={uide} />
+                  <Image src={uide} alt="Logo UIDE" aria-labelledby="UIDE" aria-describedby="Universidad Internacional del Ecuador"/>
                 </Grid.Column>
                 <Grid.Column width={10}>
                   <div className="BodyHeader">

@@ -31,19 +31,19 @@ class CarruselPage extends Component {
         <div className="CenterCarrusel">
           <div className="Carrucel">
             <Slider {...settings}>
-              <div><Image src={img16} size="large" /></div>
-              <div><Image src={img1} size="large" /></div>
-              <div><Image src={img2} size="large" /></div>
-              <div><Image src={img11} size="large" /></div>
-              <div><Image src={img4} size="large" /></div>
-              <div><Image src={img5} size="large" /></div>
-              <div><Image src={img7} size="large" /></div>
-              <div><Image src={img8} size="massive" /></div>
-              <div><Image src={img9} size="massive" /></div>
-              <div><Image src={img10} size="massive" /></div>
-              <div><Image src={img12} size="massive" /></div>
-              <div><Image src={img13} size="massive" /></div>
-              <div><Image src={img14} size="massive" /></div>
+              <div><Image src={img16} size="large" alt="Estudiantes UIDE" aria-labelledby="Programando" aria-describedby="Practicas de laboratorio"/></div>
+              <div><Image src={img1} size="large" alt="Estudiantes UIDE 2" aria-describedby="Practicas de laboratorio 2"/></div>
+              <div><Image src={img2} size="large" alt="Estudiantes UIDE 3" aria-describedby="Practicas de laboratorio 3"/></div>
+              <div><Image src={img11} size="large" alt="Estudiantes UIDE 4" aria-describedby="Practicas de laboratorio 4"/></div>
+              <div><Image src={img4} size="large" alt="Estudiantes UIDE 5" aria-describedby="Practicas de laboratorio 5"/></div>
+              <div><Image src={img5} size="large" alt="Estudiantes UIDE 6" aria-describedby="Practicas de laboratorio 6"/></div>
+              <div><Image src={img7} size="large" alt="Estudiantes UIDE 7" aria-describedby="Practicas de laboratorio 7"/></div>
+              <div><Image src={img8} size="massive" alt="Estudiantes UIDE 8" aria-describedby="Practicas de laboratorio 8"/></div>
+              <div><Image src={img9} size="massive" alt="Estudiantes UIDE 9" aria-describedby="Practicas de laboratorio 9"/></div>
+              <div><Image src={img10} size="massive" alt="Estudiantes UIDE 10" aria-describedby="Practicas de laboratorio 10"/></div>
+              <div><Image src={img12} size="massive" alt="Estudiantes UIDE 11" aria-describedby="Practicas de laboratorio 11"/></div>
+              <div><Image src={img13} size="massive" alt="Estudiantes UIDE 12" aria-describedby="Practicas de laboratorio 12"/></div>
+              <div><Image src={img14} size="massive" alt="Estudiantes UIDE 12" aria-describedby="Practicas de laboratorio 13"/></div>
             </Slider>
           </div>
         </div>
